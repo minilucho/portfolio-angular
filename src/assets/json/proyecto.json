@@ -1,0 +1,25 @@
+{
+"nombre": "Alexis",
+"apellido": "Villca",
+"puesto": "Desarrollador Full Stack Jr.",
+"acerca de mi": "lorem ipsun",
+ "redes": [
+    { 
+        "id":0,
+        "icono": "fa-facebook"
+    },    
+    { 
+        "id":1,
+        "icono": "fa-instagram"
+    },    
+    { 
+        "id":2,
+        "icono": "fa-github"
+    }   
+ ]
+
+
+
+
+
+}

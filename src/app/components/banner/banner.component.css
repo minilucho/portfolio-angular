@@ -1,0 +1,27 @@
+.nombrePerfil {
+    color: beige;
+    font-size: 3rem;
+    text-align: center;
+    margin-top: -1%;
+    font-weight: bold;
+ }
+
+ 
+ #logoPerfil{
+   
+   margin-top: -45rem;
+ 
+ }
+ #logoPerfil img{
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   
+   }
+ 
+ div#logoPerfil img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+   
+ }
